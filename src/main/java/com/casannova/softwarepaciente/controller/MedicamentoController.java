@@ -18,7 +18,7 @@ import java.util.List;
 
 public class MedicamentoController {
 
-    private MedicamentoService medicamentoServiceService;
+    private MedicamentoService medicamentoServiceService;git add
 
 
 //    metodo que retorna a lista de medicamentos
